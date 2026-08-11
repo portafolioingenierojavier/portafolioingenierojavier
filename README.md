@@ -6,7 +6,7 @@
 <!-- Typing SVG con frases dinámicas -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hola%2C+soy+[Tu+Nombre]+%F0%9F%91%8B;Desarrollador+Full+Stack+%F0%9F%92%BB;Apasionado+por+el+c%C3%B3digo+abierto+%F0%9F%8C%9F;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hola%2C+soy+[Luis Javier]+%F0%9F%91%8B;Desarrollador+Full+Stack+%F0%9F%92%BB;Apasionado+por+el+c%C3%B3digo+abierto+%F0%9F%8C%9F;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,8 +20,8 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente trabajando en **Modulos para odoo**
-- 🌱 Aprendiendo **odoo**
+- 🔭 Actualmente trabajando en todo tipo de **modulos para odoo**
+- 🌱 Aprendiendo todo sobre **odoo**
 - 👯 Busco colaborar en **proyectos open source**
 - 💬 Pregúntame sobre **JavaScript, React, Node.js, Python** (o lo que domines)
 - 📫 Cómo contactarme: **[tu@email.com](mailto:tu@email.com)**
