@@ -196,7 +196,7 @@ $ uptime
 ### 🌐 Conecta Conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-javier-espinosa-cuti%C3%A9-174703363" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1C1C2E" />
   </a>
   <a href="mailto:ingenieroinformaticojavier@proton.me">
