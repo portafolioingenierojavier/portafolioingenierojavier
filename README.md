@@ -24,7 +24,7 @@
 - 🌱 Aprendiendo **integraciones avanzadas con APIs y Odoo.sh**  
 - 👯 Busco colaborar en **proyectos de código abierto relacionados con Odoo y ERP**  
 - 💬 Pregúntame sobre **Python, Odoo, Docker, PostgreSQL, desarrollo de módulos**  
-- 📫 Cómo contactarme: **[Mi email](mailto:ingenieroinformaticojavier@proton.me)**
+- 📫 Cómo contactarme: **[Escribeme a mi correo.](mailto:ingenieroinformaticojavier@proton.me)**
 - ⚡ Dato curioso: **convierto procesos de negocio en código eficiente mientras tomo café ☕**
 
 ---
