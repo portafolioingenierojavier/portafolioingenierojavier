@@ -1,3 +1,4 @@
+```markdown
 <!-- ============================================================
      ⚔️  PERFIL ÉPICO — LUIS JAVIER
      Estética: Cyberpunk Gradient (Purple → Pink → Cyan)
@@ -8,10 +9,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,50:EC4899,100:4CC9F0&height=230&section=header&text=Luis%20Javier&fontSize=52&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Desarrollador%20Odoo%20%C2%B7%20Arquitecto%20ERP%20%C2%B7%20Python%20Warrior&descSize=18&descAlignY=55&descColor=FFFFFFBB&strokeColor=00000000" alt="Banner" />
 </p>
 
-<!-- ⌨️ TYPING SVG — Frases que definen quién soy -->
+<!-- ⌨️ TYPING SVG — Frases codificadas correctamente -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=650&repeat=true&lines=🛡️+Automatizando+negocios+con+Odoo;🐍+Python+es+mi+lenguaje+de+batalla;🐳+Dockerizando+el+mundo+ERP;☕+Café+%2B+Código+%3D+Magia+purpura;🚀+Siempre+empujando+los+límites;💡+De+proceso+de+negocio+a+código+elegante" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A1%EF%B8%8F+Automatizando+negocios+con+Odoo;%F0%9F%90%8D+Python+es+mi+lenguaje+de+batalla;%F0%9F%90%B3+Dockerizando+el+mundo+ERP;%E2%98%95+Caf%C3%A9+%2B+C%C3%B3digo+%3D+Magia;%F0%9F%9A%80+Siempre+empujando+los+l%C3%ADmites;%F0%9F%92%A1+De+proceso+de+negocio+a+c%C3%B3digo+elegante" alt="Typing SVG" />
   </a>
 </p>
 
@@ -227,3 +228,4 @@ $ uptime
 <p align="center">
   <i>«El código es poesía, y los negocios son mi musa.»</i> — <b>Luis Javier</b>
 </p>
+```
