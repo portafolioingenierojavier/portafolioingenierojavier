@@ -24,7 +24,7 @@
 - 🌱 Aprendiendo **integraciones avanzadas con APIs y Odoo.sh**  
 - 👯 Busco colaborar en **proyectos de código abierto relacionados con Odoo y ERP**  
 - 💬 Pregúntame sobre **Python, Odoo, Docker, PostgreSQL, desarrollo de módulos**  
-- 📫 Cómo contactarme: **[Escribeme a mi correo.](mailto:ingenieroinformaticojavier@proton.me)**
+- 📫 Cómo contactarme: **[ingenieroinformaticojavier@proton.me](mailto:ingenieroinformaticojavier@proton.me)**
 - ⚡ Dato curioso: **convierto procesos de negocio en código eficiente mientras tomo café ☕**
 
 ---
@@ -50,11 +50,11 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=portafolioingenierojavier&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portafolioingenierojavier&layout=compact&theme=radical&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portafolioingenierojavier&layout=compact&theme=radical&langs_count=8&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=portafolioingenierojavier&theme=radical" alt="Racha de contribuciones" />
+  <img src="https://streak-stats.demolab.com?user=portafolioingenierojavier&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@
   </picture>
 </p>
 
-> ⚠️ Para que la serpiente funcione, crea un archivo `.github/workflows/snake.yml` en este mismo repositorio con el contenido del generador oficial: [Platane/snk](https://github.com/Platane/snk). Después de unos minutos la animación se generará automáticamente.
+> ⚠️ Para activar la serpiente automática: crea un archivo `.github/workflows/snake.yml` con el contenido del generador [Platane/snk](https://github.com/Platane/snk). Después de unos minutos verás la animación.
 
 ---
 
@@ -96,10 +96,10 @@
 ### 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu@email.com">
+  <a href="mailto:ingenieroinformaticojavier@proton.me">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://tuportafolio.dev" target="_blank">
