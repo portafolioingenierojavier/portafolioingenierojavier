@@ -1,21 +1,35 @@
-name: Generar serpiente de contribuciones
+# ═════════════════════════════════════════════════════════════
+# 🐍 Generador de Serpiente de Contribuciones
+# Fuente: https://github.com/Platane/snk
+# ═════════════════════════════════════════════════════════════
+
+name: 🐍 Generar serpiente de contribuciones
 
 on:
-  # Se ejecuta cada día a medianoche (UTC)
+  # 🔁 Se ejecuta automáticamente cada día a las 00:00 UTC
   schedule:
     - cron: "0 0 * * *"
-  # Permite ejecutarlo manualmente desde la pestaña Actions
+
+  # 🖱️ Permite ejecutarlo manualmente desde la pestaña Actions
   workflow_dispatch:
+
+# ⚠️ PERMISOS — Esto es lo que faltaba para que funcione
+permissions:
+  contents: write
 
 jobs:
   generar:
     runs-on: ubuntu-latest
-    steps:
-      # 1. Clonar el repositorio
-      - uses: actions/checkout@v3
+    timeout-minutes: 10
 
-      # 2. Generar los SVG de la serpiente
-      - uses: Platane/snk@v3
+    steps:
+      # 1️⃣ Clonar el repositorio
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      # 2️⃣ Generar los SVG de la serpiente
+      - name: 🐍 Generar SVGs
+        uses: Platane/snk@v3
         id: snake
         with:
           github_user_name: portafolioingenierojavier
@@ -23,8 +37,9 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Publicar los SVG en una rama llamada "output"
-      - uses: crazy-max/ghaction-github-pages@v2.1.0
+      # 3️⃣ Publicar los SVG en la rama "output"
+      - name: 🚀 Deploy a rama output
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
