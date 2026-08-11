@@ -1,4 +1,3 @@
-```markdown
 <!-- ============================================================
      ⚔️  PERFIL ÉPICO — LUIS JAVIER
      Estética: Cyberpunk Gradient (Purple → Pink → Cyan)
@@ -228,4 +227,3 @@ $ uptime
 <p align="center">
   <i>«El código es poesía, y los negocios son mi musa.»</i> — <b>Luis Javier</b>
 </p>
-```
