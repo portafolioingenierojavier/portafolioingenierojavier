@@ -11,7 +11,7 @@
 <!-- ⌨️ TYPING SVG — Frases codificadas correctamente -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A1%EF%B8%8F+Automatizando+negocios+con+Odoo;%F0%9F%90%8D+Python+es+mi+lenguaje+de+batalla;%F0%9F%90%B3+Dockerizando+el+mundo+ERP;%E2%98%95+Caf%C3%A9+%2B+C%C3%B3digo+%3D+Magia;%F0%9F%9A%80+Siempre+empujando+los+l%C3%ADmites;%F0%9F%92%A1+De+proceso+de+negocio+a+c%C3%B3digo+elegante" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=%F0%9F%9B%A1%EF%B8%8F+Automatizando+negocios+con+Odoo;%F0%9F%90%8D+Python+es+mi+lenguaje+de+batalla;%F0%9F%90%B3+Dockerizando+el+mundo+ERP;%E2%98%95+Caf%C3%A9+%2B+C%C3%B3digo+%3D+Magia;%F0%9F%9A%80+Siempre+empujando+los+l%C3%ADmites" alt="Typing SVG" />
   </a>
 </p>
 
