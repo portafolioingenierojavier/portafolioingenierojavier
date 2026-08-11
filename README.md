@@ -20,8 +20,8 @@
 
 ### 🧑‍💻 Sobre mí
 
-- 🔭 Actualmente trabajando en **[Tu proyecto actual]**
-- 🌱 Aprendiendo **[Tecnología que estás aprendiendo]**
+- 🔭 Actualmente trabajando en **Modulos para odoo**
+- 🌱 Aprendiendo **odoo**
 - 👯 Busco colaborar en **proyectos open source**
 - 💬 Pregúntame sobre **JavaScript, React, Node.js, Python** (o lo que domines)
 - 📫 Cómo contactarme: **[tu@email.com](mailto:tu@email.com)**
