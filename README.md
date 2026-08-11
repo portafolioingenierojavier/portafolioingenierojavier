@@ -202,7 +202,7 @@ $ uptime
   <a href="mailto:ingenieroinformaticojavier@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-7B2FBE?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=1C1C2E" />
   </a>
-  <a href="https://tuportafolio.dev" target="_blank">
+  <a href="https://portafolioingenierojavier.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-EC4899?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1C1C2E" />
   </a>
   <a href="https://github.com/portafolioingenierojavier" target="_blank">
