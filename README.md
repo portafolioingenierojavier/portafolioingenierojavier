@@ -203,7 +203,7 @@ $ uptime
     <img src="https://img.shields.io/badge/ProtonMail-7B2FBE?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=1C1C2E" />
   </a>
   <a href="https://portafolioingenierojavier.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Web-EC4899?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1C1C2E" />
+    <img src="https://img.shields.io/badge/Mi Web-EC4899?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1C1C2E" />
   </a>
   <a href="https://github.com/portafolioingenierojavier" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1C1C2E" />
